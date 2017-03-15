@@ -30,7 +30,7 @@ if (!is_null($events['events'])) {
 			else if ($text == 'How are you')
 			$messages = [
 				'type' => 'text',
-				'text' => 'I am Fine'
+				'text' => 'I am Fill Good'
 			];
 
 			// Make a POST Request to Messaging API to reply to sender
